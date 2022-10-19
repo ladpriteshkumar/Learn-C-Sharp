@@ -5,3 +5,8 @@ Learn C# interview, Interview Guid
     C# is a strongly typed, object-oriented and managed programming language that is compiled by .Net framework to generate Microsoft Intermediate Language.
     
     [Reference(MS)](https://learn.microsoft.com/en-us/dotnet/csharp/tour-of-csharp/)
+    
+    
+ 2) ### What is Data Type? (Explain Data type in C#)
+
+     ![Screenshot](CsharpDataType.png)
