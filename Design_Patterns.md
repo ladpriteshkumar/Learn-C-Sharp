@@ -29,8 +29,14 @@ GoF Design Patterns are caregories in 3 categories, Cerational Patterns, Structu
 
 Creational Patterns | Structural Patterns | Behavioral Patterns
 | :--- | :--- | :---
-Abstract Factory  | Content Cell | Content Cell
-Factory Method  | Content Cell | Content Cell
-Builder  | Content Cell | Content Cell
-Prototype  | Content Cell | Content Cell
-Singleton  | Content Cell | Content Cell
+Abstract Factory  | Adapter | Chain of Responsibility (CoR)
+Factory Method  | Bridge | Command
+Builder  | Composite | Interpreter
+Prototype  | Decorator | Iterator
+Singleton  | Facade | Mediator
+--  | Flyweight | Memento
+--  | Proxy | Observer
+--  | -- | State
+--  | -- | Strategy
+--  | -- | Template Method
+--  | -- | Visitor
