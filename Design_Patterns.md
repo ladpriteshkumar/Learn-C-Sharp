@@ -16,3 +16,5 @@ I - Interface Segregation Prinicple
 D - Dependency Inversion Principle
 
 When these 5 principle are applied to software development, it makes it easy to develop software that follows good architecture and is easy to maintain and extend.
+
+[Ref youtube](https://www.youtube.com/watch?v=HLFbeC78YlU&list=PL6n9fhu94yhXjG1w2blMXUzyDrZ_eyOme)
