@@ -25,3 +25,12 @@ When these 5 principle are applied to software development, it makes it easy to 
 
 there are 23 design patterns authored by Erich Gamma, Richard Helm, Ralph Johnson and John Vlissides knows as Gang of Four Design Patterns.
 GoF Design Patterns are caregories in 3 categories, Cerational Patterns, Structural Patterns and Behavioral Patterns
+
+
+Creational Patterns | Structural Patterns | Behavioral Patterns
+| :--- | :--- | :---
+Abstract Factory  | Content Cell | Content Cell
+Factory Method  | Content Cell | Content Cell
+Builder  | Content Cell | Content Cell
+Prototype  | Content Cell | Content Cell
+Singleton  | Content Cell | Content Cell
