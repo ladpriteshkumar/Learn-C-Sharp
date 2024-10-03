@@ -18,3 +18,10 @@ D - Dependency Inversion Principle
 When these 5 principle are applied to software development, it makes it easy to develop software that follows good architecture and is easy to maintain and extend.
 
 [Ref youtube](https://www.youtube.com/watch?v=HLFbeC78YlU&list=PL6n9fhu94yhXjG1w2blMXUzyDrZ_eyOme)
+
+
+# Gang of Four Design Patterns  
+[Ref YouTube](https://www.youtube.com/watch?v=NU_1StN5Tkk)
+
+there are 23 design patterns authored by Erich Gamma, Richard Helm, Ralph Johnson and John Vlissides knows as Gang of Four Design Patterns.
+GoF Design Patterns are caregories in 3 categories, Cerational Patterns, Structural Patterns and Behavioral Patterns
