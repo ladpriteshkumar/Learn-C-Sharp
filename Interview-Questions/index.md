@@ -5,7 +5,7 @@ C# is a strongly typed, object-oriented and managed programming language that is
     
 [Reference(MS)](https://learn.microsoft.com/en-us/dotnet/csharp/tour-of-csharp/)
     
-### 2) [Data Type in C#](DataType/README.md) ? ###
+### 3) [Data Type in C#](DataType/README.md) ? ###
 ### 2) Explain Type casting in C# ? ###
 [Reference](https://www.w3schools.com/cs/cs_type_casting.php#:~:text=In%20C%23%2C%20there%20are%20two,to%20a%20smaller%20size%20type)
 
